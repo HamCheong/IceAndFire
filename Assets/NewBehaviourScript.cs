@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class move : MonoBehaviour
+public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,12 +13,8 @@ public class move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-float ymove = Input.GetAxisRaw("Vertical")*3*Time.deltaTime;
-float xMove = Input.GetAxisRaw("Horizontal")*3*Time.deltaTime;
-      this.transform.Translate(new Vector3(xMove,ymove,0));
+        float yMove = Input.GetAxisRaw("Vertical") * 5 * Time.deltaTime;
+        this.transform.Translate(new Vector3(0, yMove, 0));
 
-
-
-   
     }
 }
