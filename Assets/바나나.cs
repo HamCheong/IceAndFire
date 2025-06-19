@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class game : MonoBehaviour
+public class 바나나 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,13 +15,11 @@ public class game : MonoBehaviour
     {
 
     }
-
     void OnCollisionEnter2D(Collision2D collider)
     {
-        if (collider.gameObject.name == "images-removebg-preview")
+        if (collider.gameObject.name == "images-removebg-preview") 
             Destroy(collider.gameObject);
 
 
     }
-
 }
