@@ -1,4 +1,4 @@
-        using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +18,11 @@ public class cdcd : MonoBehaviour
         {
             th = true;
         }
-        void OnCollisionExit2D(Collision2D collider)
+        
+
+    }
+
+    void OnCollisionExit2D(Collision2D collider)
         {
 
             if (collider.gameObject.tag == "bbbbb")
@@ -28,8 +32,25 @@ public class cdcd : MonoBehaviour
         }
 
 
-    }
-} 
+
+void Update()
+{
+ 
+ if(th == true)
+ {
+
+    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.52999997f,2.8499999f),2.0f*Time.deltaTime);
+
+ }else{
+    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.54999995f,0.930000007f),2.0f*Time.deltaTime);
+ }
+
+
+
+}
+}
+
+
 /* 예시
 Void OnCollisionEnter2D (Collision2D collider)
 {
