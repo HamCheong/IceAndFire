@@ -7,21 +7,29 @@ public class MovingTest : MonoBehaviour
 
     private bool IsTouch = false;
     public Transform target;
+    public Transform up;
+    public Transform down;
 
     // Update is called once per frame
     void Update()
     {
-        if (IsTouch) target.position = Vector2.MoveTowards(target.position, new Vector2(-2.93000007f, 1.17999995f), 2.0f * Time.deltaTime);
-        else target.position = Vector2.MoveTowards(target.position, new Vector2(-2.48000002f,-0.50224936f), 2.0f * Time.deltaTime);
+        if (IsTouch)
+        {
+            target.position = Vector2.MoveTowards(target.position, up.position, 2.0f * Time.deltaTime);
+        }
+        else
+        {
+            target.position = Vector2.MoveTowards(target.position, new Vector2(4.51999998f,-3.48000002f), 2.0f * Time.deltaTime);
+        }
     }
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "Triangle") IsTouch = true;
+        if (col.gameObject.name == "Cube") IsTouch = true;
     }
-    
+
     void OnCollisionExit2D(Collision2D col)
     {
-        if (col.gameObject.name == "Triangle") IsTouch = false;
+        if (col.gameObject.name == "Cube") IsTouch = false;
     }
 }
