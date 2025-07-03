@@ -19,7 +19,7 @@ public class door : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D collider) {
-        if (collider.gameObject.name == "sexy") SceneManager.LoadScene("Dgg");
+        if (collider.gameObject.name == "images-removebg-preview") SceneManager.LoadScene("Game 2");
         
         }
        
