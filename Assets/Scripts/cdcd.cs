@@ -39,7 +39,7 @@ void Update()
  if(th == true)
  {
 
-    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.52999997f,2.8499999f),2.0f*Time.deltaTime);
+    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.43000007f,6.75f),2.0f*Time.deltaTime);
 
  }else{
     B.position = Vector2.MoveTowards(B.position, new Vector2(-3.54999995f,0.930000007f),2.0f*Time.deltaTime);
