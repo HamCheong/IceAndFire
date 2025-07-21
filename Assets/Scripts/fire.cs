@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class 바나나 : MonoBehaviour
+public class fire : MonoBehaviour
 {
-    public GameObject gg;
+    public AudioSource audioSource;
+    public AudioClip deathSound;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,10 +19,10 @@ public class 바나나 : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D collider)
     {
-        if (collider.gameObject.name == "불")
+        if (collider.gameObject.name == "Player")
         {
-            gg.SetActive(true);
-            Destroy(this.gameObject);
+            audioSource.clip = deathSound;
+            audioSource.Play();
         }
     }
 }

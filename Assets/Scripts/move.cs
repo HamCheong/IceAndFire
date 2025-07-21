@@ -7,7 +7,8 @@ public class move : MonoBehaviour
 {
     private bool IsJump = false;
     Rigidbody2D rigid; // ������ٵ�
-
+    public AudioSource audioSource;
+    public AudioClip jumpSound;
     public float jumpPower = 5.0f; //���� ��
     // Start is called before the first frame update
     void Start()
@@ -23,17 +24,17 @@ public class move : MonoBehaviour
     }
     void Jump()
     {
-        // 
         if (Input.GetKeyDown(KeyCode.UpArrow) && IsJump)
         {
-            Debug.Log("체크");
+            audioSource.clip = jumpSound;
+            audioSource.Play();
             rigid.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);
         }
 
         float xMove = Input.GetAxisRaw("Horizontal") * 3 * Time.deltaTime;
         this.transform.Translate(new Vector3(xMove, 0, 0));
     }
-    void OnCollisionEnter2D(Collision2D collider)
+    void OnCollisionStay2D(Collision2D collider)
     {
         IsJump = true;
     }
