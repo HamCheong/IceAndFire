@@ -15,7 +15,7 @@ public class scenesdlehd : MonoBehaviour
     {
     
  
-        SceneManager.LoadScene("Dgg"); // 원하는 씬으로 이동
+        SceneManager.LoadScene("Game 1"); // 원하는 씬으로 이동
 
     }
 }
