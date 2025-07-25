@@ -18,62 +18,38 @@ public class cdcd : MonoBehaviour
         {
             th = true;
         }
-        
+
 
     }
 
     void OnCollisionExit2D(Collision2D collider)
-        {
-
-            if (collider.gameObject.tag == "bbbbb")
-            {
-                th = false;
-            }
-        }
-
-
-
-void Update()
-{
- 
- if(th == true)
- {
-
-    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.43000007f,6.75f),2.0f*Time.deltaTime);
-
- }else{
-    B.position = Vector2.MoveTowards(B.position, new Vector2(-3.54999995f,0.930000007f),2.0f*Time.deltaTime);
- }
-
-
-
-}
-}
-
-
-/* 예시
-Void OnCollisionEnter2D (Collision2D collider)
-{
-	Debug.Log(collider.gameObject.transform.position);
-}
-    void Start()
     {
 
+        if (collider.gameObject.tag == "bbbbb")
+        {
+            th = false;
+        }
     }
 
-    // Update is called once per frame
+
+
     void Update()
     {
 
+        if (th == true)
+        {
+
+            B.position = Vector2.MoveTowards(B.position, new Vector2(-3.13000011f,6.36000013f), 2.0f * Time.deltaTime);
+
+        }
+        else
+        {
+            B.position = Vector2.MoveTowards(B.position, new Vector2(-3.13000011f, 4.25f), 2.0f * Time.deltaTime);
+        }
+
 
 
     }
-   
+}
 
 
-
-        }
-        */
-
-
-    
