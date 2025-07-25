@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 16545431}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 30638601}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -622,7 +622,7 @@ GameObject:
   - component: {fileID: 107440150}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -960,7 +960,7 @@ GameObject:
   - component: {fileID: 196843870}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1151,7 +1151,7 @@ GameObject:
   - component: {fileID: 215505378}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1342,7 +1342,7 @@ GameObject:
   - component: {fileID: 220758637}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1533,7 +1533,7 @@ GameObject:
   - component: {fileID: 323180309}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1724,7 +1724,7 @@ GameObject:
   - component: {fileID: 350334887}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1915,7 +1915,7 @@ GameObject:
   - component: {fileID: 353463464}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2120,7 +2120,7 @@ GameObject:
   - component: {fileID: 357299731}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2395,7 +2395,7 @@ GameObject:
   - component: {fileID: 419600589}
   m_Layer: 0
   m_Name: Tilemap (1)
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2586,7 +2586,7 @@ GameObject:
   - component: {fileID: 442327602}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2777,7 +2777,7 @@ GameObject:
   - component: {fileID: 454938810}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2968,7 +2968,7 @@ GameObject:
   - component: {fileID: 466300515}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3159,7 +3159,7 @@ GameObject:
   - component: {fileID: 500363953}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3316,7 +3316,7 @@ GameObject:
   - component: {fileID: 509298899}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3644,7 +3644,7 @@ GameObject:
   - component: {fileID: 552981947}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3848,7 +3848,7 @@ GameObject:
   - component: {fileID: 562547497}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4123,7 +4123,7 @@ GameObject:
   - component: {fileID: 603349225}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4413,7 +4413,7 @@ GameObject:
   - component: {fileID: 654148848}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4604,7 +4604,7 @@ GameObject:
   - component: {fileID: 657636603}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4977,7 +4977,7 @@ GameObject:
   - component: {fileID: 684702427}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5168,7 +5168,7 @@ GameObject:
   - component: {fileID: 717234134}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5359,7 +5359,7 @@ GameObject:
   - component: {fileID: 732865941}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5627,7 +5627,7 @@ GameObject:
   - component: {fileID: 761123902}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5818,7 +5818,7 @@ GameObject:
   - component: {fileID: 770353584}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6018,7 +6018,7 @@ GameObject:
   - component: {fileID: 843282424}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6222,7 +6222,7 @@ GameObject:
   - component: {fileID: 846636403}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6413,7 +6413,7 @@ GameObject:
   - component: {fileID: 936146208}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6604,7 +6604,7 @@ GameObject:
   - component: {fileID: 1026394594}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6795,7 +6795,7 @@ GameObject:
   - component: {fileID: 1081258819}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6986,7 +6986,7 @@ GameObject:
   - component: {fileID: 1113732481}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7186,7 +7186,7 @@ GameObject:
   - component: {fileID: 1124207913}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7761,7 +7761,7 @@ GameObject:
   - component: {fileID: 1138650037}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7965,7 +7965,7 @@ GameObject:
   - component: {fileID: 1149405797}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8458,7 +8458,7 @@ GameObject:
   - component: {fileID: 1232030118}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8649,7 +8649,7 @@ GameObject:
   - component: {fileID: 1242116363}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8840,7 +8840,7 @@ GameObject:
   - component: {fileID: 1271113081}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9296,7 +9296,7 @@ GameObject:
   - component: {fileID: 1336128019}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9487,7 +9487,7 @@ GameObject:
   - component: {fileID: 1358734644}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10058,7 +10058,7 @@ GameObject:
   - component: {fileID: 1379519625}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10249,7 +10249,7 @@ GameObject:
   - component: {fileID: 1415785312}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10449,7 +10449,7 @@ GameObject:
   - component: {fileID: 1443886641}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10640,7 +10640,7 @@ GameObject:
   - component: {fileID: 1465045393}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10972,7 +10972,7 @@ GameObject:
   - component: {fileID: 1553634145}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11163,7 +11163,7 @@ GameObject:
   - component: {fileID: 1569023894}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11354,7 +11354,7 @@ GameObject:
   - component: {fileID: 1585726469}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11545,7 +11545,7 @@ GameObject:
   - component: {fileID: 1681336263}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11736,7 +11736,7 @@ GameObject:
   - component: {fileID: 1710555345}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11927,7 +11927,7 @@ GameObject:
   - component: {fileID: 1729423435}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12118,7 +12118,7 @@ GameObject:
   - component: {fileID: 1807135702}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12309,7 +12309,7 @@ GameObject:
   - component: {fileID: 1839158308}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12500,7 +12500,7 @@ GameObject:
   - component: {fileID: 1859102058}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12700,7 +12700,7 @@ GameObject:
   - component: {fileID: 1860746027}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12891,7 +12891,7 @@ GameObject:
   - component: {fileID: 1864923774}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13401,7 +13401,7 @@ GameObject:
   - component: {fileID: 1891470376}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13592,7 +13592,7 @@ GameObject:
   - component: {fileID: 1922394822}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13783,7 +13783,7 @@ GameObject:
   - component: {fileID: 1933537723}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13983,7 +13983,7 @@ GameObject:
   - component: {fileID: 1945399585}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14187,7 +14187,7 @@ GameObject:
   - component: {fileID: 2073426156}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14443,7 +14443,7 @@ Transform:
   m_GameObject: {fileID: 2074510692}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.13, y: 6.36, z: 0}
+  m_LocalPosition: {x: -3.13, y: 6.53, z: 0}
   m_LocalScale: {x: 0.4991, y: 0.524111, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14508,7 +14508,7 @@ GameObject:
   - component: {fileID: 2116799525}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Jungle Ground
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

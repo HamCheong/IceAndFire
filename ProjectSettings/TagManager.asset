@@ -6,7 +6,7 @@ TagManager:
   tags:
   - Enemy
   - bbbbb
-  - Jungle Ground
+  - Ground
   layers:
   - Default
   - TransparentFX

@@ -36,12 +36,12 @@ public class cdcd : MonoBehaviour
         if (th == true)
         {
 
-            B.position = Vector2.MoveTowards(B.position, new Vector2(3.8900001f,-2.72000003f), 2.0f * Time.deltaTime);
+            B.position = Vector2.MoveTowards(B.position, new Vector2(-3.13000011f,6.53000021f), 2.0f * Time.deltaTime);
 
         }
         else
         {
-            B.position = Vector2.MoveTowards(B.position, new Vector2(-3.30999994f,-2.72000003f), 2.0f * Time.deltaTime);
+            B.position = Vector2.MoveTowards(B.position, new Vector2(-3.13000011f,4.23000002f), 2.0f * Time.deltaTime);
         }
 
 
