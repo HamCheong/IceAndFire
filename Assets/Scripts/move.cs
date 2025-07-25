@@ -36,12 +36,14 @@ public class move : MonoBehaviour
     }
     void OnCollisionStay2D(Collision2D collider)
     {
-        IsJump = true;
+        if(collider.gameObject.tag == "Jungle Ground" || collider.gameObject.tag == "bbbbb")
+            IsJump = true;
     }
 
     void OnCollisionExit2D(Collision2D collider)
     {
-        IsJump = false;
+        if(collider.gameObject.tag == "Jungle Ground" || collider.gameObject.tag == "bbbbb")
+            IsJump = false;
     }
 
 }
