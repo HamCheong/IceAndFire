@@ -4,19 +4,17 @@ using UnityEngine;
 
 public class lever : MonoBehaviour
 {
-    public Sprite leverTouch;
-    public Sprite originLever;
-    private SpriteRenderer spriteRenderer;
+    private Animator anim;
 
     void Awake()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.name == "Player")
         {
-            spriteRenderer.sprite = leverTouch;
+            anim.SetBool("IsTouch", true);
         }
     }
 
@@ -24,7 +22,7 @@ public class lever : MonoBehaviour
     {
         if (col.gameObject.name == "Player")
         {
-            spriteRenderer.sprite = originLever;
+            anim.SetBool("IsTouch", false);
         }
     }
 }
